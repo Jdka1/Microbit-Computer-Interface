@@ -4,14 +4,6 @@
 
 Welcome to the Microbit Computer Interface project! This repository aims to leverage the Micro:bit's accelerometer and radio capabilities using MicroPython to create a seamless computer interface.
 
-## Table of Contents 📚
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction 🌟
 
